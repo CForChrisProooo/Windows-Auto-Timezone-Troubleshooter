@@ -86,7 +86,9 @@ $ExpectedCity = "Sydney"
 Uses the OpenStreetMap Nominatim API — please respect rate limits
 
 Works on Windows 10 and Windows 11
+
 Wi-Fi scanning requires an enabled wireless adapter
+
 SSID/BSSID parsing is strict to avoid mismatched data
 
 📜 License
