@@ -67,10 +67,10 @@ Execute:
 
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\location_logger.ps1
-
 The script runs continuously until closed.
 
 🏙 Changing the Expected City (Alert Trigger)
+
 This script alerts when the detected city does not match your expected location.
 By default, it is set to Brisbane.
 
